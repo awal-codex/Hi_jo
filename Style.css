@@ -1,0 +1,25 @@
+#p-img{
+    height: 480px;
+} 
+
+#img-pic{
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.2);
+} 
+
+#text1{
+    margin-top:130px ;
+} 
+
+#text2{
+    margin-top: 130px;
+}
+
+#text3{
+    margin-top: 130px;
+}
+
+#icon-con{
+    height:180px;
+}
